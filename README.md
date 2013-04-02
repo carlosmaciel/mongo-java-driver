@@ -1,4 +1,5 @@
 ## MongoDB Java Driver ##
+
  * release notes: http://github.com/mongodb/mongo-java-driver/wiki/Release-Notes
  * driver home: http://github.com/mongodb/mongo-java-driver
  * mongodb home: http://www.mongodb.org/
@@ -18,6 +19,7 @@
 * Trisha Gee           trisha.gee@10gen.com
 
 ### Contributors:
+
 * Scott Hernandez      scott@10gen.com
 * Ryan Nitz            ryan@10gen.com
 * Antoine Girbal       antoine@10gen.com
